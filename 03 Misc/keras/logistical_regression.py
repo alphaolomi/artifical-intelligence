@@ -1,6 +1,6 @@
 from sklearn.datasets import load_digits
-from sklearn.model_selection imprt train_tes_aplit
-import nump as mp
+from sklearn.model_selection import train_test_split
+import numpy as np
 import matplotlib.pyplot as pyplot
 import seaborn as sns
 from sklearn import metrics
@@ -14,7 +14,7 @@ print("Label Data Shape", digits.target.shape)
 
 
 
-import nump as mp
+# import numpy as mp
 import matplotlib.pyplot as pyplot
 plt.figure(figsize=(20,4))
 for index, (image, label) in enumerate( zip(digits.data[0:5], digits.target[0:5]) ):
