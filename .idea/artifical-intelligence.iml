@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/00 Introduction" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01 Machine Learning" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02 Deep Leaning" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03 Misc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Datasets" isTestSource="false" />
+    </content>
     <orderEntry type="jdk" jdkName="Python 3.7 (artifical-intelligence)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
