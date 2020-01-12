@@ -2,7 +2,7 @@
 from pandas import read_csv
 from pandas import datetime
 from matplotlib import pyplot
-from pandas.tools.ploatting import autocorrelation_plot
+from pandas.tools.plotting import autocorrelation_plot
 
 
 def parser(x):
